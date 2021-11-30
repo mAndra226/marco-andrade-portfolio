@@ -99,8 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		/* background-color: #1e252d; */
-		background-image: url("florian-olivo-4hbJ-eymZ1o-unsplash.jpg");
+		background-color: #1e252d; 
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
